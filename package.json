@@ -1,0 +1,19 @@
+{
+  "name": "sslab_hackathon_1st_period",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SystemSoftwareLab-TechHub/SSLab_hackathon_1st_period.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SystemSoftwareLab-TechHub/SSLab_hackathon_1st_period/issues"
+  },
+  "homepage": "https://github.com/SystemSoftwareLab-TechHub/SSLab_hackathon_1st_period#readme"
+}
